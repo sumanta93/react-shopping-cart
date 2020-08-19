@@ -1,0 +1,28 @@
+{
+    "products":[
+        {"_id":"dress_1",
+        "title":"Dress 1",
+        "image":"images/dress1.jpg",
+        "description":"About Dress 1",
+        "price":19,
+        "availableSizes":["XL","XXL"]
+
+        }, 
+        {"_id":"dress_1",
+            "title":"Dress 2",
+            "image":"images/dress2.jpg",
+            "description":"About Dress 1",
+            "price":19,
+            "availableSizes":["XL","XXL"]
+    
+            },
+            {"_id":"dress_3",
+                "title":"Dress 3",
+                "image":"images/dress3.jpg",
+                "description":"About Dress 1",
+                "price":19,
+                "availableSizes":["XL","XXL"]
+        
+              }
+    ]
+}
